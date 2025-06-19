@@ -4,7 +4,7 @@ package com.flowers;
  * Hello world!
  *
  */
-public class App 
+public class FlowerSystemDemo
 {
     public static void main( String[] args )
     {
